@@ -16,7 +16,7 @@ public class Main {
         Ahorcado juego1 = cs.crearJuego();
         
         cs.juego(juego1);
-        
+        System.out.println("Hola mundo");
     }
     
 }
